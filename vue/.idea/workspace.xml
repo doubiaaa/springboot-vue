@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0ed7d7f-353f-4420-a82e-7a50245153c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/springboot-vue-demo/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-vue-demo/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-vue-demo/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-vue-demo/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-vue-demo/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-vue-demo/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-vue-demo/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-vue-demo/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-vue-demo/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-vue-demo/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-vue-demo/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-vue-demo/src/views/About.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-vue-demo/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-vue-demo/src/views/Home.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/springboot-vue-demo" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\maven\apache-maven-3.8.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.8.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="23GG0ndU6eaem80gyHvAKEkNd1t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot-vue-demo/src/css" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\springboot+vue\vue\springboot-vue-demo\src\css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="serve" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/springboot-vue-demo/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0ed7d7f-353f-4420-a82e-7a50245153c4" name="Default Changelist" comment="" />
+      <created>1641352791127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641352791127</updated>
+      <workItem from="1641352792637" duration="18951000" />
+      <workItem from="1644730191578" duration="1346000" />
+      <workItem from="1644747867604" duration="98000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
